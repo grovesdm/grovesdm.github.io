@@ -10,7 +10,7 @@ Some information about you!
 
 A place to include any other types of information that you'd like to include about yourself. 
 
-![Hot Chick]({{ site.url }}/images/girl.jpg)
+![Hot Chick]{{/images/girl.jpg}}
 
 ### Contact me
 
